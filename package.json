@@ -1,0 +1,28 @@
+{
+  "name": "livedb-marklogic",
+  "version": "0.0.0",
+  "description": "MarkLogic adapter for livedb",
+  "main": "livedb-marklogic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "marklogic": "git://github.com/marklogic/node-client-api#master",
+    "q": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/withjam/livedb-marklogic.git"
+  },
+  "keywords": [
+    "livedb",
+    "MarkLogic",
+    "ML8"
+  ],
+  "author": "Matt Pileggi",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/withjam/livedb-marklogic/issues"
+  },
+  "homepage": "https://github.com/withjam/livedb-marklogic"
+}
